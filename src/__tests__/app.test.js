@@ -1,5 +1,5 @@
-describe('.getScalarProductOfVectors(vectorA, vectorB)', function () {
-  it('should be defined', function () {
-    expect(window.getScalarProductOfVectors).toBeDefined();
+describe('.getWinner(gameBoard)', function () {
+  it('should be a function', function () {
+    expect(typeof window.getWinner).toBe('function');
   });
 });

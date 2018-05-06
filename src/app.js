@@ -1,2 +1,2 @@
-window.getScalarProductOfVectors = function () {
+window.getWinner = function () {
 };
