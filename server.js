@@ -13,6 +13,7 @@ app.get('/', function (req, res) {
 });
 
 server.listen(3000, function () {
+// eslint-disable-next-line no-console
   console.log('Started listening at localhost:3000');
 });
 

@@ -1,5 +1,5 @@
 module.exports = {
   setupFiles: [
-    '<rootDir>/src/arrayMethods.js',
+    '<rootDir>/src/app.js',
   ],
 };
